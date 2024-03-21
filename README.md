@@ -1,8 +1,8 @@
-# React + Vite
+# React and Vite Project: Testing Out The Parallax Effect For Greater Website Engagement
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a portfolio project demonstrating the use of the Parallax effect for enhancing website engagement. It is built using React and Vite.
 
-Currently, two official plugins are available:
+## How to Run
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Install the dependencies with `npm install`
+2. Start the development server with `npm run dev`
