@@ -1,5 +1,9 @@
 # Sky Diving Parallax Cat: Trying Out The Parallax Effect
 
+<a href="https://sky-diving-parallax-cat.netlify.app/" target="_blank" rel="noreferrer"> 
+  <img height="400" src="https://github.com/AbdulDevHub/Sky-Diving-Parallax-Cat/blob/main/Screenshot.png?raw=true">
+</a>
+
 ## Overview
 
 This repository contains the code for a portfolio project that demonstrates the use of the Parallax effect for enhancing website engagement. The project is built using React and Vite.
